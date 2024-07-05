@@ -1,0 +1,22 @@
+body{
+    background-image: url(Thanjavur-Image.jpg);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+marquee{
+    margin-left: 600px;
+    width: 250px;
+}
+img{
+    height: 50px;
+    width: 25px;
+}
+h1{
+    text-align: center;
+}
+{
+    
+}
+
